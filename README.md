@@ -7,9 +7,11 @@
 - Offer the optional opportunity for speakers to practice their talk or show their slides to a conference planner or someone else before the conference
 - Request that speakers upload their slides to internet, email to organizers, or bring on physical drive as a back-up in the case of computer problems
 - Make speakers social media handles available on website or conference collateral so it is easy for people to live-tweet their talk or otherwise engage with their content
+- Establish and communicate a single speaker point-of-contact and provide both phone and email options to reach. This person should be the touch stone for any questions or concerns before or during the conference.
 
 # At Check-In
 - Have a separate check-in table for speakers so they can rest assured 
+- If possible, have the single speaker point-of-contact at check-in to great speakers. This may not be possible if that person has other responsibilities, but regardless make sure that person is available via the contact methods given to speakers (e.g. text)
 - Provide a "speaker lounge" for speakers to step away from conference, practice presentation, or get "in the zone" as desired
 - Make it easy to identify speakers with a different color of lanyards or nametags versus attendees. This will help speakers network more effectively and be more available to interested audience members after their session
 
