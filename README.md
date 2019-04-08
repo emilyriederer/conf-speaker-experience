@@ -1,5 +1,6 @@
 # Before Conference
 - Confirm conference speakers as soon as possible to give them sufficient time to prepare their talk, book travel, and get permission for any sensitive material they might be covering
+- When speakers are confirming participation, ask that they share additional metadata to be used in introductions. Specifically, be sure to know how to prounounce their name, their preferred pronouns, and any biographical information they wish to have mentioned
 - Clarify topic and timeslot and whether stated session time includes questions
 - Set clear expectation of speakers staying within alloted time or being cut-off, for the sake of other speakers and attendees who need to stay on track
 - Collect consent to be included in photos / videos
