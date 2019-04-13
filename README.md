@@ -40,3 +40,6 @@
 - Encourage speakers to write up their talk as a blog post and help them publicize
 - Share their materials (decks, videos, GitHubs, etc.) to whatever extent you are able and they are comfortable
 - When the budget allows, provide a speaker gift. This does not need to be economically valuable, but a momento and token of gratitude is a nice touch
+
+# Miscellaneous 
+- Make sure than infrastructure (e.g. bio/photo collection, publicity, feedback, etc.) allows for co-presenters if conference allows this
